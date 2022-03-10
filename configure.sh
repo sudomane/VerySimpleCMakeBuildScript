@@ -1,8 +1,11 @@
 RED='\033[0;31m'
 GREEN='\033[0;32m'
 NC='\033[0m'
+
 function run() {
-    ./out/PiTerm
+    # FIXME!
+    echo "Not yet implemented!"
+    return 1
 }
 
 function clean() {
